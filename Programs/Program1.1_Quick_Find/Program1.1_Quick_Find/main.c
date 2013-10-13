@@ -3,7 +3,7 @@
 //  Program 1.1
 //  Quick-find solution to connectivity problem
 //  Created by Mingming Wang on 10/13/13.
-//  Copyright (c) 2013 NA. All rights reserved.
+//  Copyright (c) 2013 Mingming Wang. All rights reserved.
 //
 
 #include <stdio.h>
