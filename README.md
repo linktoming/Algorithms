@@ -1,9 +1,6 @@
 Learning Notes on Algorithms
 ================
 
-It's a good practice to [write the book you want to read.](http://austinkleon.com/2008/12/18/a-manifesto-write-the-book-you-want-to-read/)
-and that's why I'm writing this one as an ongoing learning notes on Algorithms.
-
 ## Common Data Structures
 1. Array (1 dimension, 2 dimension)
 2. Linked List (Singly-lined doubly-linked, circular)
@@ -22,5 +19,6 @@ and that's why I'm writing this one as an ongoing learning notes on Algorithms.
 
 
 ## Reference
+
 
 
