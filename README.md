@@ -1,4 +1,4 @@
-Learning Notes on Algorithms
+Notes on Algorithms
 ================
 
 ## Common Data Structures
