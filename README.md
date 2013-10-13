@@ -19,7 +19,7 @@ Notes on Algorithms
 
 
 ## Reference
-- [Algorithms in C](http://www.cs.princeton.edu/~rs/)
+- [_Algorithms in C_ author's page](http://www.cs.princeton.edu/~rs/)
 
 
 
