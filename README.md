@@ -19,6 +19,6 @@ Notes on Algorithms
 
 
 ## Reference
-
+[Algorithms in C](http://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525)
 
 
