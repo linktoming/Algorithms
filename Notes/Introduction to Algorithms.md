@@ -18,5 +18,3 @@ A general approach (in [_Algorithms in C_](http://www.amazon.com/Algorithms-Part
 ### Analysis of Algorithms
 The choice of the best algorithm for a particular task can be a complicated process, perhaps involving sophisticated mathematics analysis. This branch of computer science that comprises the study of such questions is called _analysis of algorithms_
 
-### Reference
-[Algorithms in C](http://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525)
