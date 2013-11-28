@@ -4,3 +4,5 @@ Paradigms of Algorthim Design
 - Dynamic programming paradim
 - Backtracking paradigm
 - Greedy paradigm
+
+<http://www.slideshare.net/suresh5c2/algorithm-paradigms>
