@@ -1,7 +1,7 @@
-Notes on Algorithms
+Algorithms
 ================
 
-## Common Data Structures
+## Common Data Structure
 1. Array (1 dimension, 2 dimension)
 2. Linked List (Singly-lined doubly-linked, circular)
 3. String related
@@ -17,9 +17,14 @@ Notes on Algorithms
 1. Sorting and Searching
 2. Graph
 
+## Learning Material & Reference
+### Online Course 
+- [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms)
+- [Algorithms, Part II](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 
-## Reference
-- [_Algorithms in C_ author's page](http://www.cs.princeton.edu/~rs/)
+### Books
+- [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
+- [Algorithms in C](http://www.cs.princeton.edu/~rs/)
 
 
 
