@@ -23,8 +23,8 @@ Algorithms
 - [Algorithms, Part II](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 
 ### Books
-- [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
-- [Algorithms in C](http://www.cs.princeton.edu/~rs/)
+- [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) & [Algorithms in C](http://www.cs.princeton.edu/~rs/)
+- [Introduction to Algorithms, Third Edition](https://mitpress.mit.edu/books/introduction-algorithms)
 
 
 
