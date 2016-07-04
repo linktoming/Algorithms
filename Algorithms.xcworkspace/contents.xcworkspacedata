@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "group:DynamicConnectivity"
-      name = "DynamicConnectivity">
-      <FileRef
-         location = "group:UnionFind.swift">
-      </FileRef>
-   </Group>
-   <Group
-      location = "group:Graph"
-      name = "Graph">
-      <FileRef
-         location = "group:Graph.swift">
-      </FileRef>
-   </Group>
+   <FileRef
+      location = "group:Algorithms/Algorithms.xcodeproj">
+   </FileRef>
    <Group
       location = "group:Code With Book"
       name = "Code With Book">

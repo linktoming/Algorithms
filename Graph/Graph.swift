@@ -43,7 +43,7 @@ protocol Graph {
 extension Graph {
   func degree(v: Int) -> Int {
     var degree = 0;
-    for _ in self.adjacentTo(v) {
+    for _ in self.adjacentTo(v: v) {
       degree = degree + 1
     }
     return degree
@@ -52,7 +52,7 @@ extension Graph {
   func maxDegree() -> Int {
     var max = 0
     for v in 0..<self.V() {
-      let currentDegree = self.degree(v)
+      let currentDegree = self.degree(v: v)
       max = currentDegree > max ? currentDegree : max
     }
     return max
@@ -63,6 +63,34 @@ extension Graph {
   }
 
   func numberOfSelfLoops() -> Int {
-    <#function body#>
+    var count = 0
+    for v in 0..<self.V() {
+      for w in self.adjacentTo(v) {
+        if v == w {
+          count = count + 1
+        }
+      }
+    }
+
+    return count/2
   }
+
 }
+
+/*
+ Three main type of implementations of graph
+ - set of edges
+ - adjacency-matrix
+ - adjacency-list
+*/
+class AdjacencyListGraph: Graph {
+  let V: Int
+  var adjacencyList: [Int]
+  init(V: Int) {
+    self.V = V
+  }
+
+
+}
+
+print("Hello World")
