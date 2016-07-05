@@ -7,10 +7,11 @@
 //
 
 import Foundation
+
 protocol UnionFind {
   init(size: Int)                           // initialize union-find data structure with size
   func union(p: Int, q: Int)                // add connection between p and q
-  func connected(p: Int, q: Int) -> Boolean // are p and q connected? in the same component
+  func connected(p: Int, q: Int) -> Bool    // are p and q connected? in the same component
   func find(p: Int) -> Int                  // component identifier for p
   func count() -> Int                       // number of components
 }
