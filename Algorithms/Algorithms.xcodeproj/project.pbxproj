@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		992EF4971D2B4D30006F26FA /* Graph.md in Sources */ = {isa = PBXBuildFile; fileRef = 992EF4961D2B4D30006F26FA /* Graph.md */; };
 		9DD7E2321D2AB80D0006E3C5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD7E2311D2AB80D0006E3C5 /* main.swift */; };
 		9DD7E23A1D2AB8510006E3C5 /* UnionFind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD7E2381D2AB8510006E3C5 /* UnionFind.swift */; };
 		9DD7E2421D2AB8880006E3C5 /* Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD7E2401D2AB8880006E3C5 /* Graph.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		992EF4961D2B4D30006F26FA /* Graph.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Graph.md; sourceTree = "<group>"; };
 		9DD7E22E1D2AB80C0006E3C5 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DD7E2311D2AB80D0006E3C5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9DD7E2381D2AB8510006E3C5 /* UnionFind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnionFind.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				9DD7E2401D2AB8880006E3C5 /* Graph.swift */,
+				992EF4961D2B4D30006F26FA /* Graph.md */,
 			);
 			name = Graph;
 			path = ../Graph;
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DD7E2421D2AB8880006E3C5 /* Graph.swift in Sources */,
+				992EF4971D2B4D30006F26FA /* Graph.md in Sources */,
 				9DD7E23A1D2AB8510006E3C5 /* UnionFind.swift in Sources */,
 				9DD7E2321D2AB80D0006E3C5 /* main.swift in Sources */,
 			);
@@ -240,6 +244,7 @@
 		9DD7E2361D2AB80D0006E3C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -247,6 +252,7 @@
 		9DD7E2371D2AB80D0006E3C5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
@@ -271,6 +277,7 @@
 				9DD7E2371D2AB80D0006E3C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
